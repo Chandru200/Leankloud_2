@@ -1,1 +1,5 @@
-# Leankloiud_2
+# Leankloud_2
+
+#BIG O NOTATION
+#SPACE COMPLEXITY=0(N)
+#TIME COMPEXITY=0(N)
