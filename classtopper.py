@@ -105,8 +105,7 @@ with open("Student_marks_list.csv",'r') as file:
             else:
                 top_three[3].append(student_marks[0])
                    
-print(top_in_all)
-print(top_three)
+
 if len(top_in_all['Maths']) ==1 :
     print("Topper in Maths is " + top_in_all['Maths'][0])
 else:
